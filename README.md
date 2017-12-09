@@ -60,7 +60,7 @@ void setup()
 
     /**
      * To test this sketch send a serial message to this arduino, such as:
-     * [SET=true] or [RUN = anyvalue]
+     * [SET=true] or [RUN=anyvalue]
      */ 
 }
 
