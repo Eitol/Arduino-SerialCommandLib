@@ -86,3 +86,4 @@ This diagram shows a diagram of the hash table used to associate the commands to
 ###### Command message format:
 ![](media/format.png)
 
+
